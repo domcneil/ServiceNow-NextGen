@@ -20,4 +20,4 @@ We:
     - Used a Carousel widget on Service Portal catalog that linked to various items including knowledge articles, catalog items, and record producers
 
 
-*We do not own the photos featured on our site, however a group member (Tiffany Ruff) created the lettering that reads 'Pot it Like it's Hot' over the background on the index page
+*We do not own the photos featured on our portal, however a group member (Tiffany Ruff) created the lettering that reads 'Pot it Like it's Hot' over the background on the index page
