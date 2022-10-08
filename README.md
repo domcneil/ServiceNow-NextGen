@@ -7,7 +7,7 @@ For my final project as a NextGen ServiceNow extern, my group mates and I create
 We:
 - Created a dashboard populated with automated reports, a catalog with various items, and knowledge bases with corresponding articles
 - Further enhanced our project by:
-    -  Creating a catalog ui policy that applies to a variable set used on our record producer for placing plant consultation requisitions
+    -  Creating a catalog ui policy that applies to a variable set used on our record producer for placing plant consultation requests
     - Created a phone number regular expression customizing code after researching the ServiceNow community
     - Used a dictionary override to automatically populate the due date to be +3 days from the date of submission
 - Created an assignment rule to automate assigning custom store employee group to assignment group field
