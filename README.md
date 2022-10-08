@@ -10,7 +10,7 @@ For my final project as a NextGen ServiceNow extern, my group mates and I create
     -  Creating a catalog ui policy that applies to a variable set used on our record producer for placing plant consultation requests
     - Created a phone number regular expression customizing code after researching the ServiceNow community
     - Used a dictionary override to automatically populate the due date to be +3 days from the date of submission
-- Created an assignment rule to automate assigning customer store employee group to assignment group field for consultation requests
+- <strong>Created an assignment rule to automate assigning customer store employee group to assignment group field for consultation requests</strong>
 - <strong>Utilized flow designer to: </strong>
     - Automate customer notifications when they submit a plant inquiry request 
     - Automate The Plant Shop catalog item orders fulfillment and deployment process, including emails to customers when a new order is received and after their order has been shipped
