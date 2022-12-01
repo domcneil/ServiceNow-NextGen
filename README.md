@@ -4,7 +4,7 @@ This repositiory is dedicated to demonstrating my final project for the Next Gen
 
 For my final project as a NextGen ServiceNow extern, my group mates and I created a scoped application using Studio. 
 
-<strong>We:</strong>
+<strong>Accomplishments:</strong>
 - <strong>Created a dashboard populated with automated reports, a catalog with various items, and knowledge bases with corresponding articles</strong>
 - <strong>Further enhanced our project by:</strong>
     -  Creating a catalog ui policy that applies to a variable set used on our record producer for placing plant consultation requests
